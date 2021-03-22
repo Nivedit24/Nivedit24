@@ -12,6 +12,7 @@
 [<img align="left" alt="Nivedit24 | Twitter" width="44px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />][twitter]
 [<img align="left" alt="Nivedit24 | LinkedIn" width="44px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
 <br/>
+<br/>
 ## 🧰Languages and Tools:
 <p align="center">
       <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" alt="c++" width="55" height="55"/>
@@ -35,6 +36,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nivedit24&theme=tokyonight)
 
+![](https://visitor-badge.laobi.icu/badge?page_id=Nivedit24.Nivedit24)
 
 [twitter]: https://twitter.com/nivedit24
 [linkedin]: https://www.linkedin.com/in/nivedit-reddy/
