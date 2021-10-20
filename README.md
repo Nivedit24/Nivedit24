@@ -28,7 +28,7 @@
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="110" height="75"/> 
       <img src= "https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="55" height="55"/>
       <img src= "https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="flask" width="110" height="75"/>
-      <img src= "https://www.vectorlogo.zone/logos/swift/swift-horizontal.svg" alt="flask" width="110" height="75"/>
+      <img src= "https://www.vectorlogo.zone/logos/swift/swift-official.svg" alt="flask" width="110" height="75"/>
 </p>
 
 ## 🏆 My Github Statistics:
