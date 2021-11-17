@@ -1,8 +1,8 @@
 # Hi there, I'm Nivedit Reddy 👋
-## 🎓 I'm an Undergrad Student @IITMandi (India) 
+## 🎓 I'm a SDE-1 @ Meesho in the iOS team with a B.Tech in CSE @IITMandi (India) 
 
 - 👀 I’m interested in Data Science, NLP, Game Theory and Economics
-- 🌱 I’m currently learning Program Analysis and Psychology
+- 🌱 I’m currently learning Swift and Quantum Computing
 - 💞️ I’m looking to collaborate with other students/researchers who work on similar topics
 - ⚡ Fun facts: I love watching movies 🎬, travelling 🧳, video games 🎮 and playing tennis 🎾
 - 📫 How to reach me: bniveditreddy@gmail.com
@@ -29,6 +29,7 @@
       <img src= "https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="55" height="55"/>
       <img src= "https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="flask" width="110" height="75"/>
       <img src= "https://www.vectorlogo.zone/logos/swift/swift-official.svg" alt="flask" width="110" height="75"/>
+      <img src= "https://user-images.githubusercontent.com/50955024/69568352-af507800-0f78-11ea-8262-07e61a7fec79.png" alt="qiskit" width="175" height="75"/>
 </p>
 
 ## 🏆 My Github Statistics:
