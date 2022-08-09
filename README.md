@@ -1,5 +1,6 @@
 # Hi there, I'm Nivedit Reddy 👋
-## 🎓 I'm a SDE-1 @ Meesho in the iOS team with a B.Tech in CSE @IITMandi (India) 
+## 🎓 I'm a Masters Student in Computer Science at USC
+I have experience as an iOS Developer by working at Meesho. I hold a B.Tech in CSE with a Minor in Management from IITMandi (India) 
 
 - 👀 I’m interested in Data Science, NLP, Game Theory and Economics
 - 🌱 I’m currently learning Swift and Quantum Computing
